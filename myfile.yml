@@ -1,0 +1,18 @@
+--- 
+ name: 'DevOps Journey'
+ subscribers: 900
+ awesome: true
+ pi: 3.14159 
+ topics: 
+   - DevOps
+   - Programming
+   - Linux
+   - IT Careers
+ Playlists: 
+    Docker Course:
+      link: https://www.youtube.com/watch?v=O-z_vUr53iU&list=PLnFWJCugpwfzyZ7NbYVyajGIVjEsZK5JT  
+      videos: 8
+    Ansible Course:
+      links: https://www.youtube.com/watch?v=KuiAiUyuDY4&list=PLnFWJCugpwfzTlIJ-JtuATD2MBBD7_m3u
+      videos: 8
+...
